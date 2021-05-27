@@ -1,0 +1,1 @@
+It’s video classification system with keras. I created a normal classifier, then implemented a moving average technique and then finally created a single frame CNN video classifier.
